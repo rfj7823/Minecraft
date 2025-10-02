@@ -4,7 +4,7 @@ import time
 import os
 
 # Telegram bot token & chat ID from Render environment variables
-TOKEN = os.getenv("TELEGRAM_TOKEN")
+TOKEN = os.getenv("8115023864:AAG2UiT5YWTTXMuRjaIsDSBP1ug4jmkffZo")
 CHAT_ID = os.getenv("7088894501")
 
 def send_message(text):
